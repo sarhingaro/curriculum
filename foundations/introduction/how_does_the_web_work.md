@@ -36,11 +36,11 @@ This section contains helpful links to other content. It isn't required, so cons
 This section contains questions for you to check your understanding of this lesson. If you're having trouble answering the questions below on your own, review the material above to find the answer.
 
 * What is a network?
-* What is the internet?
+* What is the internet? 
 * What is an IP address?
 * What is a router?
 * What is an ISP? 
-* What are packets and how are they used to transfer data?
+* What are packets and how are they used to transfer data? lol
 * What is a client? 
 * What is a server?
 * What is a web page?
